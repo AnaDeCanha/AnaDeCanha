@@ -1,7 +1,3 @@
-![Cover](/assets/notion-cover.png)
-
-# 👋 Hi, I’m Ana de Canha!
-
 ![Ana de Canha](/assets/message-card.png)
 
 ## 🚀 About Me
