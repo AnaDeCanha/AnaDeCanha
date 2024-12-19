@@ -1,6 +1,8 @@
+![Cover](/assets/notion-cover-filled.png)
+
 # 👋 Hi, I’m Ana de Canha!
 
-![Ana de Canha](https://www.anadecanha.com/_next/image?url=%2Fhero-image.jpg&w=3840&q=75)
+![Ana de Canha](https://avatars.githubusercontent.com/u/40498270?v=4)
 
 💬 ¡Hola! Welcome to my personal README! I’m a Frontend Software Engineer with a passion for design and creating user-friendly, accessible digital experiences. My work revolves around bringing thoughtful design and technical excellence together to craft solutions that truly resonate with users.
 
@@ -50,3 +52,5 @@ Feel free to reach out or follow me on:
 ## ✨ Fun Fact
 
 🎨 I started my tech journey as a web designer before transitioning into frontend development.
+
+![Footer](/assets/notion-footer.png)
