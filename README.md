@@ -2,9 +2,7 @@
 
 # 👋 Hi, I’m Ana de Canha!
 
-![Ana de Canha](https://avatars.githubusercontent.com/u/40498270?v=4)
-
-💬 ¡Hola! Welcome to my personal README! I’m a Frontend Software Engineer with a passion for design and creating user-friendly, accessible digital experiences. My work revolves around bringing thoughtful design and technical excellence together to craft solutions that truly resonate with users.
+![Ana de Canha](/assets/message-card.png)
 
 ## 🚀 About Me
 
