@@ -35,16 +35,6 @@ Here are some of my favorite projects:
 - **Other Tools:** Figma, Git, React Testing Library
 - **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design
 
-## 🔗 Connect with Me
+> ## ✨ Fun Fact
 
-Feel free to reach out or follow me on:
-
-- 🌐 **Personal Website:** [anadecanha.com](https://www.anadecanha.com)
-- 💼 **LinkedIn:** [linkedin.com/in/anadecanha](https://www.linkedin.com/in/ana-de-canha-708443125/)
-- 🐦 **Twitter:** [@anadecanha](https://x.com/anadecanha)
-- 📷 **Instagram:** [@anadecanha](https://www.instagram.com/anadecanha/)
-- ✉️ **Email:** [hola@anadecanha.com](mailto:hola@anadecanha.com)
-
-## ✨ Fun Fact
-
-🎨 I started my tech journey as a web designer before transitioning into frontend development.
+> 🎨 I started my tech journey as a web designer before transitioning into frontend development.
