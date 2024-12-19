@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ana De Canha!
 
-![Ana de Canha](/assets/message-card.png)
+![Ana De Canha](/assets/message-card.png)
 
 ## 🚀 About Me
 
