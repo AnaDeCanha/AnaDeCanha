@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Ana de Canha!
+# 👋 Hi, I’m Ana De Canha!
 
 ![Ana de Canha](/assets/message-card.png)
 
 ## 🚀 About Me
 
-Currently based in London, I’m a Freelance Frontend Developer specializing in creating responsive, accessible, and engaging web solutions using technologies like React, TypeScript, and Next.js. My journey in tech has been complemented by a deep interest in product design, which helps me build not just functional but delightful experiences.
+Currently based in London, I’m a Frontend Developer specializing in creating responsive, accessible, and engaging web solutions using technologies like React, TypeScript, and Next.js. My journey in tech has been complemented by a deep interest in product design, which helps me build not just functional but delightful experiences.
 
 I’ve worked on exciting projects, including developing a scheduling module for an advertising platform and collaborating with design agencies to create beautiful, functional web designs.
 
@@ -18,7 +18,7 @@ Here are some of my favorite projects:
 
    - A landing page exploring animations with Motion (Framer Motion).
    - **Tech Stack:** Next.js, React, TailwindCSS, Motion
-   - **[GitHub Repository](https://github.com/AnaDeCanha/solcraft-studios)**
+   - **[GitHub Repository](https://github.com/AnaDeCanha/responsive-landing-page)**
 
 2. **Be Kind News**
 
@@ -33,7 +33,7 @@ Here are some of my favorite projects:
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, TailwindCSS, Motion (Framer Motion)
 - **Other Tools:** Figma, Git, React Testing Library
-- **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design, Performance Optimization
+- **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design
 
 ## 🔗 Connect with Me
 
