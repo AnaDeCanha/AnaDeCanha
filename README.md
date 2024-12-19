@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Ana De Canha!
+# 💬 Hi, I’m Ana De Canha!
 
 ![Ana De Canha](/assets/message-card.png)
 
-## 🚀 About Me
+## 💕 About Me
 
 Currently based in London, I’m a Frontend Developer specializing in creating responsive, accessible, and engaging web solutions using technologies like React, TypeScript, and Next.js. My journey in tech has been complemented by a deep interest in product design, which helps me build not just functional but delightful experiences.
 
@@ -10,7 +10,7 @@ I’ve worked on exciting projects, including developing a scheduling module for
 
 When I’m not coding, you’ll find me exploring coffee shops, reading, or writing about my adventures ☕📚 If I'm not traveling, of course ✈️💕
 
-## 📂 Portfolio
+## 👩🏻‍💻 Portfolio
 
 Here are some of my favorite projects:
 
@@ -28,13 +28,13 @@ Here are some of my favorite projects:
    - **Core Features:** Mood selection and personalized news feed based on API integration with [NewsAPI.org](https://newsapi.org/)
    - **[GitHub Repository](https://github.com/AnaDeCanha/be-kind-news)**
 
-## 🛠️ Skills
+## 💪🏼 Skills
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, TailwindCSS, Motion (Framer Motion)
 - **Other Tools:** Figma, Git, React Testing Library
 - **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design
 
-## 💕 Fun Fact
+## ✨ Fun Fact
 
 🎨 I started my tech journey as a web designer before transitioning into frontend development.
