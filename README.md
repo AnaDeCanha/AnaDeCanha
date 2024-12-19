@@ -48,5 +48,3 @@ Feel free to reach out or follow me on:
 ## ✨ Fun Fact
 
 🎨 I started my tech journey as a web designer before transitioning into frontend development.
-
-![Footer](/assets/notion-footer.png)
