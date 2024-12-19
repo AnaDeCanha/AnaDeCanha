@@ -1,4 +1,4 @@
-![Cover](/assets/notion-cover-filled.png)
+![Cover](/assets/notion-cover.png)
 
 # 👋 Hi, I’m Ana de Canha!
 
