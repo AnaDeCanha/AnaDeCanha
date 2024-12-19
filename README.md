@@ -1,3 +1,5 @@
+# 👋 Hi, I’m Ana de Canha!
+
 ![Ana de Canha](/assets/message-card.png)
 
 ## 🚀 About Me
@@ -6,23 +8,25 @@ Currently based in London, I’m a Freelance Frontend Developer specializing in 
 
 I’ve worked on exciting projects, including developing a scheduling module for an advertising platform and collaborating with design agencies to create beautiful, functional web designs.
 
-When I’m not coding, you’ll find me exploring coffee shops, reading, or writing about my adventures. ☕📚 If I'm not traveling, of course ✈️💕
+When I’m not coding, you’ll find me exploring coffee shops, reading, or writing about my adventures ☕📚 If I'm not traveling, of course ✈️💕
 
 ## 📂 Portfolio
 
 Here are some of my favorite projects:
 
-1. **[SolCraft Studios](https://your-deployed-site-link.com)**
+1. **SolCraft Studios**
 
    - A landing page exploring animations with Motion (Framer Motion).
    - **Tech Stack:** Next.js, React, TailwindCSS, Motion
-   - [GitHub Repository](https://github.com/AnaDeCanha/solcraft-studios)
+   - **[GitHub Repository](https://github.com/AnaDeCanha/solcraft-studios)**
 
-2. **[Be Kind News](--)**
+2. **Be Kind News**
 
-   - In progress.
-   - **Tech Stack:** Next.js, React, TypeScript, TailwindCSS
-   - [GitHub Repository](https://github.com/AnaDeCanha)
+   - A news app that personalizes headlines based on the user’s mood (good, bad, neutral) to promote responsible news consumption and mental well-being.
+   - **My Role:** Designed the user interface and developed the frontend using **Next.js**, **React**, and **TailwindCSS**.
+   - **Tech Stack:** Next.js, React, TypeScript, TailwindCSS, Headless UI
+   - **Core Features:** Mood selection and personalized news feed based on API integration with [NewsAPI.org](https://newsapi.org/)
+   - **[GitHub Repository](https://github.com/AnaDeCanha/be-kind-news)**
 
 ## 🛠️ Skills
 
@@ -30,8 +34,6 @@ Here are some of my favorite projects:
 - **Frameworks & Libraries:** React, Next.js, TailwindCSS, Motion (Framer Motion)
 - **Other Tools:** Figma, Git, React Testing Library
 - **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design, Performance Optimization
-
----
 
 ## 🔗 Connect with Me
 
