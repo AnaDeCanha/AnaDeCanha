@@ -35,6 +35,6 @@ Here are some of my favorite projects:
 - **Other Tools:** Figma, Git, React Testing Library
 - **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design
 
-> ## ✨ Fun Fact
+## 💕 Fun Fact
 
-> 🎨 I started my tech journey as a web designer before transitioning into frontend development.
+🎨 I started my tech journey as a web designer before transitioning into frontend development.
