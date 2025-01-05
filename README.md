@@ -4,11 +4,12 @@
 
 ## 💕 About Me
 
-Currently based in London, I’m a Frontend Developer specializing in creating responsive, accessible, and engaging web solutions using technologies like React, TypeScript, and Next.js. My journey in tech has been complemented by a deep interest in product design, which helps me build not just functional but delightful experiences.
+Currently based in London, I’m a UX Engineer specializing in building interactive, accessible, and user-friendly digital experiences using technologies like React, TypeScript, and Next.js. My background in frontend development and love for design thinking allow me to craft solutions that are both functional and delightful.
 
-I’ve worked on exciting projects, including developing a scheduling module for an advertising platform and collaborating with design agencies to create beautiful, functional web designs.
+I’ve worked on exciting projects, from developing a scheduling module for an advertising platform to collaborating with design teams to bring beautiful, user-focused interfaces to life.
 
-When I’m not coding, you’ll find me exploring coffee shops, reading, or writing about my adventures ☕📚 If I'm not traveling, of course ✈️💕
+When I’m not designing or coding, you’ll probably find me learning languages, optimizing workflows, or writing about my adventures in my newsletter. ☕📚✨
+And if I’m not doing that... I’m probably exploring new places! ✈️💕
 
 ## 👩🏻‍💻 Portfolio
 
@@ -32,9 +33,11 @@ Here are some of my favorite projects:
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, TailwindCSS, Motion (Framer Motion)
-- **Other Tools:** Figma, Git, React Testing Library
-- **Specialized Areas:** Accessibility (WCAG Compliance), Responsive Design
-
-## ✨ Fun Fact
-
-🎨 I started my tech journey as a web designer before transitioning into frontend development.
+- **Design Tools & Skills:**
+  - **Figma:** Wireframes, Prototypes, High-Fidelity Mockups
+  - **UI Design:** Creating UI components and reusable patterns
+  - **Design Systems:** Building scalable systems (personal projects)
+- **Specialized Areas:**
+  - **Accessibility (WCAG Compliance):** ARIA roles, Keyboard Navigation
+  - **Responsive Design:** Mobile-first and cross-browser compatibility
+- **Other Tools:** Git, React Testing Library
