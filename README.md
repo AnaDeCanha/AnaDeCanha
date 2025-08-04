@@ -4,7 +4,7 @@
 
 ## 💕 About Me
 
-Currently based in the Canary Islands, I'm a Frontend Developer with 4+ years of experience specializing in React, TypeScript, and Next.js. I'm expanding into UX strategy and user research to become a full-stack UX Engineer who can take projects from user insights through to polished implementation.
+Currently based in London, I'm a Frontend Developer with 4+ years of experience specializing in React, TypeScript, and Next.js. I'm expanding into UX strategy and user research to become a full-stack UX Engineer who can take projects from user insights through to polished implementation.
 
 My background includes building scalable frontend features, collaborating closely with design teams, and applying accessibility best practices (WCAG standards) to ensure inclusive experiences for all users.
 
