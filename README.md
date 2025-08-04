@@ -1,15 +1,16 @@
-# 💬 Hi, I’m Ana De Canha!
+# 💬 Hi, I'm Ana De Canha!
 
-![Ana De Canha](/assets/message-card.png)
+¡Hola! Welcome to my GitHub! I'm a Frontend Developer transitioning into UX Engineering, passionate about creating interactive, accessible digital experiences. I combine technical development skills with user experience thinking to build solutions that work beautifully for both users and developers.
 
 ## 💕 About Me
 
-Currently based in London, I’m a UX Engineer specializing in building interactive, accessible, and user-friendly digital experiences using technologies like React, TypeScript, and Next.js. My background in frontend development and love for design thinking allow me to craft solutions that are both functional and delightful.
+Currently based in the Canary Islands, I'm a Frontend Developer with 4+ years of experience specializing in React, TypeScript, and Next.js. I'm expanding into UX strategy and user research to become a full-stack UX Engineer who can take projects from user insights through to polished implementation.
 
-I’ve worked on exciting projects, from developing a scheduling module for an advertising platform to collaborating with design teams to bring beautiful, user-focused interfaces to life.
+My background includes building scalable frontend features, collaborating closely with design teams, and applying accessibility best practices (WCAG standards) to ensure inclusive experiences for all users.
 
-When I’m not designing or coding, you’ll probably find me learning languages, optimizing workflows, or writing about my adventures in my newsletter. ☕📚✨
-And if I’m not doing that... I’m probably exploring new places! ✈️💕
+I love solving real user problems through code and design - whether that's optimizing a conversion flow, building accessible components, or creating design systems that scale.
+
+When I'm not coding or wireframing, you'll find me learning languages, exploring UX methodologies, or sharing what I learn through my content. ☕📚✨
 
 ## 👩🏻‍💻 Portfolio
 
@@ -22,22 +23,38 @@ Here are some of my favorite projects:
    - **[GitHub Repository](https://github.com/AnaDeCanha/responsive-landing-page)**
 
 2. **Be Kind News**
-
-   - A news app that personalizes headlines based on the user’s mood (good, bad, neutral) to promote responsible news consumption and mental well-being.
-   - **My Role:** Designed the user interface and developed the frontend using **Next.js**, **React**, and **TailwindCSS**.
+   - A news app that personalizes headlines based on user mood to promote responsible news consumption and mental well-being.
+   - **My Role:** UX research, UI design, and full frontend development
    - **Tech Stack:** Next.js, React, TypeScript, TailwindCSS, Headless UI
-   - **Core Features:** Mood selection and personalized news feed based on API integration with [NewsAPI.org](https://newsapi.org/)
+   - **Core Features:** Mood-based personalization, accessible interface, API integration
    - **[GitHub Repository](https://github.com/AnaDeCanha/be-kind-news)**
 
 ## 💪🏼 Skills
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
+**Frontend Development:**
+
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Next.js, TailwindCSS, Motion (Framer Motion)
-- **Design Tools & Skills:**
-  - **Figma:** Wireframes, Prototypes, High-Fidelity Mockups
-  - **UI Design:** Creating UI components and reusable patterns
-  - **Design Systems:** Building scalable systems (personal projects)
-- **Specialized Areas:**
-  - **Accessibility (WCAG Compliance):** ARIA roles, Keyboard Navigation
-  - **Responsive Design:** Mobile-first and cross-browser compatibility
-- **Other Tools:** Git, React Testing Library
+- **Specialized Areas:** Accessibility (WCAG), Responsive Design, Performance Optimization
+
+**UX & Design:**
+
+- **Design Tools:** Figma (wireframes, prototypes, high-fidelity mockups)
+- **UX Methods:** User flow analysis, usability audits, heuristic evaluation
+- **Design Systems:** Component libraries, design tokens, scalable patterns
+
+**Collaboration & Process:**
+
+- **Development:** Git, React Testing Library, Agile workflows
+- **Cross-functional:** Designer handoff, async team collaboration, technical communication
+
+## 🚀 Currently
+
+- 🔍 Conducting UX audits for early-stage products
+- 📚 Learning advanced UX research methodologies
+- 💼 Open to contract/freelance opportunities in UX Engineering
+- 🌱 Building my portfolio of UX + development case studies
+
+---
+
+**Let's connect!** I'm always interested in projects where thoughtful UX meets solid technical implementation.
