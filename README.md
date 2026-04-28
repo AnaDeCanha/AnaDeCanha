@@ -18,6 +18,8 @@ I’m especially interested in:
 ## Current Work
 
 🔍 Building [Refella](https://www.refella.com/) — AI product turning everyday work into structured career evidence  
+→ How I built it: https://www.anadecanha.com/portfolio/refella  
+
 🌱 Growing [UX Pals](https://www.ux-pals.com/) — sharing insights on product, UX, and frontend systems  
 
 ## Stack
