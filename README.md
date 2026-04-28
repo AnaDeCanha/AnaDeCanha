@@ -31,6 +31,7 @@ I’m especially interested in:
 ## Looking for
 
 Open to:
+
 • Product Engineer roles  
 • Frontend Engineer roles  
 • Contract work with product-focused teams  
