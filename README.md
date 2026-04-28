@@ -1,31 +1,51 @@
-# Hi, I'm Ana De Canha
+# Hi, I’m Ana De Canha 👋
 
-UX Engineer bridging UX thinking and frontend development to build accessible, production-ready product interfaces.
-
-## About Me
-
-I work end-to-end across UX and frontend, from user research and flow definition to building the interfaces that bring them to life in React and Next.js.
-
-I specialise in UX audits, friction analysis, and user flow design, with accessibility (WCAG) built into everything I do. I'm currently building Refella, an early-stage product of my own, where I own the full UX and frontend execution.
-
-I work best in small, product-led teams where UX decisions and frontend implementation happen close together.
-
-When I'm not building, you'll find me learning languages, exploring UX methodologies, or sharing what I learn through UX Pals. ☕
-
-## Skills
-
-**UX:** UX audits & friction analysis · User flows · User research · Wireframing & prototyping · Accessibility (WCAG, ARIA) · Design systems
-
-**Frontend:** React · Next.js · TypeScript · Semantic HTML · CSS · JavaScript
-
-**Tools:** Figma · Git
-
-## Currently
-
-- 🔍 Building Refella, an early-stage product focused on guided UX-driven workflows
-- 🌱 Running UX Pals, a platform for applied UX learning
-- 💼 Open to full-time, contract, and freelance UX Engineer roles
+**Product Engineer** building and shipping user-facing products end-to-end.  
+I work across product thinking and frontend engineering using **React, TypeScript, and Next.js**.
 
 ---
 
-**Let's connect!** I'm always interested in working with teams where UX decisions and frontend execution happen close together.
+## About
+
+I build products end-to-end, from user flows to production-ready frontend systems.
+
+I’ve worked on complex, data-heavy interfaces and accessible public-facing products, and I’m currently building **Refella** — an AI product where I design and implement onboarding, interaction systems, and frontend architecture.
+
+I’m especially interested in:
+- Onboarding and time-to-value  
+- API-driven interfaces  
+- Building under real constraints (performance, complexity, reliability)  
+
+---
+
+## Current Work
+
+- 🔍 Building [Refella](https://www.refella.com/) — AI product turning everyday work into structured career evidence  
+- 🌱 Growing [UX Pals](https://www.ux-pals.com/) — sharing insights on product, UX, and frontend systems  
+
+---
+
+## Stack
+
+- **Frontend:** React · Next.js · TypeScript  
+- **Systems:** REST APIs · State management · Complex UI logic  
+- **Styling:** Tailwind · Modern CSS · Semantic HTML  
+- **Quality:** React Testing Library · Accessibility (WCAG, ARIA)  
+- **Tools:** Git · GitHub · Figma  
+
+---
+
+## Looking for
+
+Open to:
+- Product Engineer roles  
+- Frontend Engineer roles  
+- Contract work with product-focused teams  
+
+---
+
+## Contact
+
+If you're building a product and need someone who can take features from idea to production:
+
+👉 Let’s connect
