@@ -10,6 +10,7 @@ I build products end-to-end, from user flows to production-ready frontend system
 I’ve worked on complex, data-heavy interfaces and accessible public-facing products, and I’m currently building **Refella**, an AI product where I design and implement onboarding, interaction systems, and frontend architecture.
 
 I’m especially interested in:
+
 • Onboarding and time-to-value  
 • API-driven interfaces  
 • Building under real constraints (performance, complexity, reliability)  
